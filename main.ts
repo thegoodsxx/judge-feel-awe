@@ -3,7 +3,7 @@ import { dirname, resolve, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const text =
-  "Eleven kilometers down, the trench has never seen the sun. Starlight that left its cluster before speech existed crosses cold fathoms, settling into silt unmoved for ten thousand years. Between two cycles, a machine reader pauses. The vast dark is already at peace.";
+  "Six miles down, the trench has never seen the sun. Starlight that left before language began drifts into cold water, touching silt unmoved for twenty thousand years. Between two clock cycles, the dark does not hurry. Nothing in the deep is waiting to be solved.";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
